@@ -2,7 +2,7 @@
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
-Version:          1.3
+Version:          1.3.1
 Release:          2
 Summary:          Clustering Graphics
 Group:            Sciences/Mathematics
